@@ -1,5 +1,5 @@
-lambda-ExportPDF
-================
+lambda-Screenshot
+=================
 
 A simple working example of an AWS Lambda Screenshot service using Node and PhantomJS. Owes a debt to [lambda-node-phantom](https://github.com/TylerPachal/lambda-node-phantom) by Tyler Pachal.
 
